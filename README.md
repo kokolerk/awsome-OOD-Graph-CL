@@ -19,7 +19,8 @@ We will try our best to make this paper list updated. If you notice some related
 #### Generalized Analysis and Methods
 Survery:
 - [CVPR 2020] A Survey on Contrastive Self-supervised Learning [[paper]](https://arxiv.org/abs/2011.00362.pdf) several CL losses
-papers:
+
+Papers (based on dimensional collapse):
 - [ICCV 2021 Oral] On Feature Decorrelation in Self-Supervised Learning [[paper]](https://arxiv.org/abs/2105.00470.pdf) definition of dimensional collapse in self-supervised learning.
 - [ICLR 2022] Understanding Dimensional Collapse in Contrastive Self-supervised Learning [[paper]](https://arxiv.org/abs/2110.09348.pdf) linear theory through singular value analysis.
 - [ICLR 2023] ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond [[paper]](https://arxiv.org/abs/2303.06562.pdf) uniform loss for feature space
@@ -30,7 +31,8 @@ papers:
 #### Graph Contrastive Learning
 Survey:
 - [arXiv 2021] Graph Self-Supervised Learning: A Survey [[paper]](https://arxiv.org/pdf/2103.00111.pdf) several CL methods in graph 
-Papers：
+
+Papers (Based on Data augmentaion)：
 - [NeurIPS 2020] Graph Contrastive Learning with Augmentations [[paper]](https://arxiv.org/pdf/2010.13902.pdf) emprirical analysis for DA in graph 
 - [KDD 2020] GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training [[paper]](https://arxiv.org/pdf/2006.09963.pdf) 
 - [ICML 2022] G-Mixup: Graph Data Augmentation for Graph Classification [[paper]](https://arxiv.org/pdf/2202.07179.pdf) Graphon for mixup DA
@@ -45,7 +47,8 @@ Papers：
 #### Generalized Analysis and Methods
 Survey:
 - [survey] Towards Out-Of-Distribution Generalization: A Survey [[paper]](https://arxiv.org/pdf/2108.13624.pdf)
-Papers:
+
+Papers (based on IRM):
 - Invariant Risk Minimization [[paper]](https://arxiv.org/pdf/1907.02893.pdf))
 - [ICML 2020] Invariant Rationalization [[paper]](https://arxiv.org/abs/2003.09772.pdf) interesting formulation, invariance + mutual information
 - [NeurIPS 2021] Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization [[paper]](https://arxiv.org/abs/2106.06607.pdf) 
@@ -56,8 +59,9 @@ Papers:
 
 #### Specialized for graph ( graph invariant learning )
 Survey:
-- [survey] Out-Of-Distribution Generalization on Graphs: A Survey.[[paper]](https://arxiv.org/pdf/2202.07987.pdf) 
-Methods:
+- [survey] Out-Of-Distribution Generalization on Graphs: A Survey.[[paper]](https://arxiv.org/pdf/2202.07987.pdf)
+
+Papers (Based on Invaraint Learning):
 - [NeurIPS 2022] Learning Invariant Graph Representations for Out-of-Distribution Generalization [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_GIL.pdf) DIL, adapt Invariant Rationalization in graph
 - [NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs [[paper]](https://arxiv.org/pdf/2202.05441.pdf) CIGA, adapt CL AND Invariant Rationalization for graph
 - [NeurIPS 2022] Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_DIDA.pdf) adapt GNN ood for DGNN graph
