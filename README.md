@@ -1,4 +1,4 @@
-<h1 align="center"><b>awesome-OOD-rank</b></h1>
+<h1 align="center"><b>awesome-OOD-Graph-CL</b></h1>
 <p align="center">
     <a href="https://github.com/kokolerk/awsome-ood-rank/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-green" alt="PRs"></a>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/forks/kokolerk/awsome-ood-rank?color=blue&label=Fork" alt="Forks" >
 </p>
 
-This repository contains the paper list of **Out-of-Distribution (OOD) Generalization and feature collapse**. The existing literature can be summarized into three categories from conceptually different perspectives, i.e., *contrastive learning* and *out-of-distribution generalization*. Although these three fields are distinct, they can potentially intersect with each other from the perspective of feature analysis, i.e. *dimensional collapse*, *neural collapse*, *singuler values distribution*.
+This repository contains the paper list of 3 fields: **Out-of-Distribution (OOD) Generalization, Out-of-Distribution (OOD) Generalization for graph and contrastive learning**. Although these three fields are distinct, they can potentially intersect with each other from the perspective of feature analysis, i.e. *dimensional collapse*, *neural collapse*, *singuler values distribution*.
 
 
 We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us via pull requests at our repo.
