@@ -32,7 +32,7 @@ Papers (based on dimensional collapse):
 Survey:
 - [arXiv 2021] Graph Self-Supervised Learning: A Survey [[paper]](https://arxiv.org/pdf/2103.00111.pdf) several CL methods in graph 
 
-Papers (Based on Data augmentaion)：
+Papers (based on data augmentaion)：
 - [NeurIPS 2020] Graph Contrastive Learning with Augmentations [[paper]](https://arxiv.org/pdf/2010.13902.pdf) emprirical analysis for DA in graph 
 - [KDD 2020] GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training [[paper]](https://arxiv.org/pdf/2006.09963.pdf) 
 - [ICML 2022] G-Mixup: Graph Data Augmentation for Graph Classification [[paper]](https://arxiv.org/pdf/2202.07179.pdf) Graphon for mixup DA
@@ -61,7 +61,7 @@ Papers (based on IRM):
 Survey:
 - [survey] Out-Of-Distribution Generalization on Graphs: A Survey.[[paper]](https://arxiv.org/pdf/2202.07987.pdf)
 
-Papers (Based on Invaraint Learning):
+Papers (based on invaraint learning):
 - [NeurIPS 2022] Learning Invariant Graph Representations for Out-of-Distribution Generalization [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_GIL.pdf) DIL, adapt Invariant Rationalization in graph
 - [NeurIPS 2022] Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs [[paper]](https://arxiv.org/pdf/2202.05441.pdf) CIGA, adapt CL AND Invariant Rationalization for graph
 - [NeurIPS 2022] Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_DIDA.pdf) adapt GNN ood for DGNN graph
@@ -81,7 +81,7 @@ Papers (Based on Invaraint Learning):
 
 ## Reference blogs
 
-- OOD generalization related papers (based on IRM) [[blog]] (https://sites.google.com/view/mila-ood-rg/related-work)
-- OOD generalization paper list (general) [[blog]] (https://out-of-distribution-generalization.com/)
-- OOD generalization for Graph paper list (general) [[blog]] (https://graph.ood-generalization.com/)
+- OOD generalization related papers (based on IRM) [[blog]](https://sites.google.com/view/mila-ood-rg/related-work)
+- OOD generalization paper list (general) [[blog]](https://out-of-distribution-generalization.com/)
+- OOD generalization for Graph paper list (general) [[blog]](https://graph.ood-generalization.com/)
 
