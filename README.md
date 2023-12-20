@@ -12,6 +12,18 @@ This repository contains the paper list of 3 fields: **Out-of-Distribution (OOD)
 
 We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us via pull requests at our repo.
 
+# Contents
+- [Papers](#papers)
+  - [Contrastive Learning](#contrastive-learning)
+      - [Generalized Analysis and Methods](#generalized-analysis-and-methods)
+      - [Graph Contrastive Learning](#graph-contrastive-learning)
+  - [Out-of-distribution Generalization](#out-of-distribution-generalization)
+      - [Generalized Analysis and Methods](#generalized-analysis-and-methods-1)
+      - [Specialized for graph](#specialized-for-graph--graph-invariant-learning-)
+  - [Other Related Papers](#other-related-papers)
+      - [Dataset for Graph OOD](#dataset-for-graph-ood)
+  - [Reference blogs](#reference-blogs)
+
 # Papers
 
 ## Contrastive Learning
