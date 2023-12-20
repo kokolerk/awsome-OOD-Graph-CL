@@ -49,7 +49,7 @@ Survey:
 - [survey] Towards Out-Of-Distribution Generalization: A Survey [[paper]](https://arxiv.org/pdf/2108.13624.pdf)
 
 Papers (based on IRM):
-- Invariant Risk Minimization [[paper]](https://arxiv.org/pdf/1907.02893.pdf))
+- Invariant Risk Minimization [[paper]](https://arxiv.org/pdf/1907.02893.pdf)
 - [ICML 2020] Invariant Rationalization [[paper]](https://arxiv.org/abs/2003.09772.pdf) interesting formulation, invariance + mutual information
 - [NeurIPS 2021] Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization [[paper]](https://arxiv.org/abs/2106.06607.pdf) 
 - [AISTATS 2021] Does Invariant Risk Minimization Capture Invariance? [[paper]](https://arxiv.org/abs/2101.01134.pdf) fairly good paper, analyzing when will IRMv1 fail (to get the solution of IRM), and when will IRM itself fail
@@ -59,7 +59,7 @@ Papers (based on IRM):
 
 #### Specialized for graph ( graph invariant learning )
 Survey:
-- [survey] Out-Of-Distribution Generalization on Graphs: A Survey.[[paper]](https://arxiv.org/pdf/2202.07987.pdf)
+- [survey] Out-Of-Distribution Generalization on Graphs: A Survey [[paper]](https://arxiv.org/pdf/2202.07987.pdf)
 
 Papers (based on invaraint learning):
 - [NeurIPS 2022] Learning Invariant Graph Representations for Out-of-Distribution Generalization [[paper]](https://haoyang.li/assets/pdf/2022_NeurIPS_GIL.pdf) DIL, adapt Invariant Rationalization in graph
